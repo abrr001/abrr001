@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Bakar Rizwan</h1>
 <h3 align="center">A student and a developer from Pakistan</h3>
 
-- I am working on **Library Management System**
+- I am working on **ATM Simulation using C++**
 
 - 🌱 I’m currently learning **Courses and doing Bachelors**
 
