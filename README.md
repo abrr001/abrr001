@@ -3,9 +3,9 @@
 
 - I am working on **ATM Simulation using C++**
 
-- 🌱 I’m currently learning **Courses and doing Bachelors**
+- 🌱 I’m currently learning **Various Courses related to Computer Science and doing Bachelors**
 
-- 📫 How to reach me **abrr3250@gmail.com**
+- 📫 How to reach me **abrr3260@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
