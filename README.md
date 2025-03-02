@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 I’m currently working on learning assembly language and improving my programming skills in python.<br>🧑‍🤝‍🧑 I’m looking to collaborate on content writing, logo design, or any tech-related projects.<br>🤝 I’m looking for help with advanced assembly language concepts and low-level programming.<br>🌱 I’m currently learning assembly language, AI concepts, and improving my C++ and Python skills.<br>💬 Ask me about content writing, data entry tasks, Microsoft Office,MySql ,video editing and basic programming.<br>⚡ Fun fact I enjoy both coding and creative tasks like logo designing—it’s a perfect balance of logic and art!🔭 I’m currently working on<br>
+🌌 I’m currently working on learning assembly language and improving my programming skills in python.<br>🧑‍🤝‍🧑 I’m looking to collaborate on content writing, logo design, or any tech-related projects.<br>🤝 I’m looking for help with advanced assembly language concepts and low-level programming.<br>🌱 I’m currently learning assembly language, AI concepts, and improving my C++ and Python skills.<br>💬 Ask me about content writing, data entry tasks, Microsoft Office,MySql ,video editing and basic programming.<br>⚡ Fun fact I enjoy both coding and creative tasks like logo designing—it’s a perfect balance of logic and art.
 
 
 ## 🌐 Socials:
