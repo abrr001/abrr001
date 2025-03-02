@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 I’m currently working on learning assembly language and improving my programming skills in python.<br>🧑‍🤝‍🧑 I’m looking to collaborate on content writing, logo design, or any tech-related projects.<br>🤝 I’m looking for help with advanced assembly language concepts and low-level programming.<br>🌱 I’m currently learning assembly language, AI concepts, and improving my C++ and Python skills.<br>💬 Ask me about content writing, data entry tasks, Microsoft Office,MySql ,video editing and basic programming.<br>⚡ Fun fact I enjoy both coding and creative tasks like logo designing—it’s a perfect balance of logic and art.
+🌌 I’m currently working on learning assembly language and improving my programming skills in python.<br>🧑‍🤝‍🧑 I’m looking to collaborate on content writing, logo design, or any tech-related projects.<br>🤝 I’m looking for help with advanced assembly language concepts and low-level programming.<br>🌱 I’m currently learning assembly language, AI concepts, and improving my C++ and Python skills.<br>💬 Ask me about content writing, data entry tasks, Microsoft Office,MySql ,video editing and basic programming.<br>⚡ Fun fact I enjoy both coding and creative tasks like logo designing—it’s a perfect balance of logic and art!🔭 I’m currently working on<br>
 
 
 ## 🌐 Socials:
@@ -12,13 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abrr001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrr001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abrr001&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=abrr001&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
